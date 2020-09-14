@@ -1,0 +1,13 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ı‚Í8ç•¥³È.
+C
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ç•¥³È.
+a
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ç•¥³È.
+a
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ç•¥³È.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(’œÄ§ÿÿÿÿÿ8ç•¥³È.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÁâÊ£8ç•¥³È.
+V	java:S125"<This block of commented-out lines of code should be removed.(¹¸‡”8ç•¥³È.
+C
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ç•¥³È.
